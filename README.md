@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake gif](https://github.com/zhd4nov/zhd4nov/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **zhd4nov/zhd4nov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
