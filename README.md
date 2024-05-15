@@ -8,9 +8,9 @@
       <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube logo"/>
     </a>
     <br />
-    <a href="mailto:e.zhd4nov@gmail.com">
+<!--     <a href="mailto:e.zhd4nov@gmail.com">
       <img src="https://img.shields.io/badge/gmail-get_in_touch-yellow?style=for-the-badge&logo=gmail" alt="gmail logo"/>
-    </a>
+    </a> -->
   </div>
 </div>
 
