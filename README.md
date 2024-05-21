@@ -1,16 +1,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp0empmdDFpdjJyZzFwOXp5aHdhM3lwcDhqY3psNGxjNzhkbmt6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JkKcK6nIy3txeChSRA/giphy.gif" width="150" alt="cat"/>
   <div>
-    <a href="https://t.me/zhd4nov">
+    <a target="_blank" href="https://t.me/zhd4nov">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram logo"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCsDbNnhYK-KED4fQex9WttQ">
+    <a target="_blank" href="https://www.youtube.com/channel/UCsDbNnhYK-KED4fQex9WttQ">
       <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube logo"/>
     </a>
-    <br />
-<!--     <a href="mailto:e.zhd4nov@gmail.com">
-      <img src="https://img.shields.io/badge/gmail-get_in_touch-yellow?style=for-the-badge&logo=gmail" alt="gmail logo"/>
-    </a> -->
   </div>
 </div>
 
